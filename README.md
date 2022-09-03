@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>📧Email📧</Strong><br>l_hyunji_im@naver.com
-</p>
+
 <!--
 **LimHyun-ji/LimHyun-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+    
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     💡used as the main
 </p>
