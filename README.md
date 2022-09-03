@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Java-F&DF1E?style=flat-square&logo=Java" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+
+
 <img src = "https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobeillustrator" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
