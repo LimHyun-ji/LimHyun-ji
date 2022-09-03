@@ -1,5 +1,10 @@
 ### 😄I'm Game Developer Engineer using Unity & Unreal.
-<Strong>📧Email📧</Strong><br>l_hyunji_im@naver.com<br>
+
+
+
+<p align="center">
+    <Strong>📧Email📧</Strong><br>l_hyunji_im@naver.com<br>
+</p>
 <!--
 **LimHyun-ji/LimHyun-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
