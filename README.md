@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 #### 🛠Skills
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-99CC00?style=flat-square&logo=sharp&logoColor=white"/>
