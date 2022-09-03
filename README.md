@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 
 <img src = "https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHyun-ji&show_icons=true&theme=radical)
