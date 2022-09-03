@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" display="inline-block">
-<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
-
-<img src = "https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java" style="height : auto; margin-left : 2px; margin-right : 2px;"/>   <img src = "https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 </p>
 
