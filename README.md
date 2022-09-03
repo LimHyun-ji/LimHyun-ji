@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
     
+    
+<p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
     💡used as the main
 </p>
