@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <Strong>📧Email📧</Strong><br>l_hyunji_im@naver.com<br>
+    <Strong>📧Email📧</Strong><br>l_hyunji_im@naver.com
 </p>
 <!--
 **LimHyun-ji/LimHyun-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
