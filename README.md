@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Game Developer Engineer using Unity & Unreal.
+### 😄I'm Game Developer Engineer using Unity & Unreal.
 
 <!--
 **LimHyun-ji/LimHyun-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
